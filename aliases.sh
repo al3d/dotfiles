@@ -1,7 +1,5 @@
 #Directory listing
-alias ls='ls --color=auto'
-alias ls='ls -lAFG'
-alias la='ls'
+alias la='ls -lAFG --color=auto'
 alias al='la'
 alias lsd='ls | grep "^d"'
 
